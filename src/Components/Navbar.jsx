@@ -26,7 +26,7 @@ export default function Navbar({ searchStr, setSearchStr }) {
     <>
       <div className="Nav-container">
         <div className="logo-container">
-          <img id="logo" src="/logo.png" alt="icon.png" />
+          <img id="logo" src="/logo.png" alt="logo" />
         </div>
         <div className="Nav-list">
           <ul className="list-container">
